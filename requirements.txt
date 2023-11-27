@@ -1,0 +1,5 @@
+flask
+requests
+PyYaml
+pysocks
+gunicorn
